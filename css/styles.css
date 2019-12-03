@@ -1,0 +1,156 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #fbe3b9;
+      background-color: #857671;
+}
+h1 {
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.75rem;
+  color: #fbe3b9;
+  margin: 0;
+  line-height: 2;
+}
+.pone{
+  font-size: 1.5rem;
+  color: #fbe3b9;
+  font-weight: normal;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+      color: #fbe3b9;
+      font-size: 1.5rem;
+      padding-bottom: 10px;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+      color: #ef7b7b;
+      padding-bottom: 10px;
+      padding-top: 10px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.top-container{
+  background-color: #857671;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top:60px;
+  border-bottom: 3px solid #36b5b0;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  top:300px;
+  border-bottom: 3px solid #36b5b0;
+}
+.cakes{
+border: 3px solid #ef7b7b;
+}
+.middle-container{
+text-align: center;
+background-color: #857671;
+
+}
+
+}
+.bottom-container{
+
+background-color: #ef7b7b;
+margin: 10 0 10 0;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+    background-color: #857671;
+
+}
+.skills{
+      background-color: #857671;
+}
+.book{
+  width: 25%;
+  float: left;
+  clear: left;
+margin-right: 30px;
+background-color: #36b5b0;
+border-radius: 50%;
+}
+.hikingboot{
+    width: 25%;
+    float: right;
+    clear: right;
+    margin-left: 30px;
+    background-color: #36b5b0;
+    border-radius: 50%;
+
+}
+.paraone{
+  width: 30%;
+margin: auto;
+}
+
+
+/******from button generator****/
+
+
+.myButton {
+	box-shadow:inset 0 1px 0 0 #40514E;
+	background:linear-gradient(to bottom, #36b5b0 5%, #ef7b7b 100%);
+	background-color:#857671;
+	border-radius:6px;
+	border:1px solid #36b5b0;
+	display:inline-block;
+	cursor:pointer;
+	color: #fbe3b9;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 30px;
+	text-decoration:none;
+	text-shadow:0 1px 0 black;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #fbe3b9 5%, #fbe3b9100%);
+	background-color:#fbe3b9;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.contact-me{
+  padding: 30px;
+  background-color: #857671;
+}
+.contactclass{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 2rem;
+  background-color: #857671;
+
+}
+.footer-link{
+  font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+
+
+}
+.copyright{
+  font-size: 1rem;
+  color:#fbe3b9 ;
+  padding-bottom: 10px;
+
+}
+.bottom-container{
+  padding: .5rem;
+  color: #fbe3b9;
+  background-color: #ef7b7b;
+}
